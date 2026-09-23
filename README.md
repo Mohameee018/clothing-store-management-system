@@ -30,15 +30,15 @@ The system was built from the ground up with a focus on practical business workf
 
 ### Returns & Exchanges
 
-![Returns](screenshots/returns.png)
+![Returns](screenshots/Returns.png)
 
 ### Expenses
 
-![Expenses](screenshots/expenses.png)
+![Expenses](screenshots/Expenses.png)
 
 ### Reports
 
-![Reports](screenshots/reports.png)
+![Reports](screenshots/Reports.png)
 
 ---
 
